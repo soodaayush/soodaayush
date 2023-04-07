@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevBaddy
-- 👀 I’m interested in becoming a god at HTML
-- 🌱 I’m currently learning Nothing
-- 💞️ I’m looking to collaborate on HTML
+- 👀 I’m interested building open source projects with other people
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on anything Frontend
 - 📫 How to reach me: GitHub
