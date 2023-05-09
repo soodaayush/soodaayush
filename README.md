@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevBaddy
 - 👀 I’m interested building open source projects with other people
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything Frontend
+- 💞️ I’m looking to collaborate on anything Frontend or Python
 - 📫 How to reach me: GitHub
