@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in building open source projects with other developers<br>🌱 I’m currently learning Python<br>💞️ I’m looking to collaborate on any project relating to Frontend or Python<br>📫 How to reach me: GitHub, Discord<br>
+👀 I’m interested in building open source projects with other developers<br>🌱 I’m currently learning Python<br>💞️ I’m looking to collaborate on any project relating to Frontend or Python<br>📫 How to reach me: GitHub, Discord, Leetcode<br>
 
 
 ## 🌐 Socials:
