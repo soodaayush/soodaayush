@@ -2,7 +2,7 @@
 👀 I’m interested in building open source projects with other developers<br>📚 I’m currently learning C++<br>🧪 I'm currently experimenting with Ben Eater 6502 and 8-bit series<br>💞️ I’m looking to collaborate on any project relating to C++<br>📫 How to reach me: GitHub, LeetCode, LinkedIn, YouTube<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soodaayush) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14341019) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@soodaayush) 
 
 # 💻 Tech Stack:
