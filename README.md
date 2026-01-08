@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in building open source projects with other developers<br>📚 I’m currently learning Machine Learning<br>🧪 I'm currently experimenting with competitive programming<br>💞️ I’m looking to collaborate on any project relating to C++<br>📫 How to reach me: GitHub, LinkedIn, Email<br>
+👀 I’m interested in building open source projects with other developers<br>📚 I’m currently learning Market Makers<br>🧪 I'm currently experimenting with competitive programming<br>💞️ I’m looking to collaborate on any project relating to C++<br>📫 How to reach me: GitHub, LinkedIn, Email<br>
 
 
 # 🌐 Socials:
