@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in building open source projects with other developers<br>📚 I’m currently learning DSA<br>🧪 I'm currently experimenting with finishing high school<br>💞️ I’m looking to collaborate on any project relating to Python<br>📫 How to reach me: LinkedIn, Email<br>
+👀 I’m interested in building open source projects with other developers<br>📚 I’m currently learning DSA<br>🧪 I'm currently experimenting with preparing for university<br>💞️ I’m looking to collaborate on any project relating to Python<br>📫 How to reach me: LinkedIn, Email<br>
 
 
 # 🌐 Socials:
