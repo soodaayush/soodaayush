@@ -2,7 +2,7 @@
 
 I'm an incoming **Software Engineering** student at the **University of Waterloo** based in Nova Scotia, Canada!
 
-- **Currently Focusing On:** Data Structures & Algorithms, full-stack Python development, and scalable system design.
+- **Currently Focusing On:** Data Structures & Algorithms, Python development, and scalable system design.
 - **Beyond Coding:** I'm deeply interested in physics, geopolitics, and training Brazilian Jiu-Jitsu/MMA.
 - **Connect with me:** [Portfolio](https://aayushsood.com/) | [LinkedIn](https://linkedin.com/in/soodaayush) | [Email](mailto:your.email@uwaterloo.ca)
 
