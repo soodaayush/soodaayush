@@ -4,7 +4,7 @@ I'm an incoming **Software Engineering** student at the **University of Waterloo
 
 - **Currently Focusing On:** Data Structures & Algorithms, Python development, and scalable system design.
 - **Beyond Coding:** I'm deeply interested in physics, geopolitics, and training Brazilian Jiu-Jitsu/MMA.
-- **Connect with me:** [Portfolio](https://aayushsood.com/) | [LinkedIn](https://linkedin.com/in/soodaayush) | [Email](mailto:your.email@uwaterloo.ca)
+- **Connect with me:** [Portfolio](https://aayushsood.com/) | [LinkedIn](https://linkedin.com/in/soodaayush) | [Email](mailto:aayush.sood@uwaterloo.ca)
 
 ---
 
