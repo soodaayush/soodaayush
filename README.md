@@ -1,6 +1,6 @@
 # About Me
 
-I'm a **Software Engineering** student at the **University of Waterloo** based in Nova Scotia, Canada!
+I'm a **Software Engineering** student at the **University of Waterloo**!
 
 - **Currently Focusing On:** Data Structures & Algorithms, Python development, and scalable system design.
 - **Beyond Coding:** I'm deeply interested in mathematics, geopolitics, and training Brazilian Jiu-Jitsu/MMA.
