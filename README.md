@@ -10,7 +10,7 @@ I'm a **Software Engineering** student at the **University of Waterloo**!
 
 # Projects
 
-* **[IWKids](https://github.com/soodaayush/IWKids)** - An AI-powered full-stack mobile app built to optimize the ER experience for children and families. **Placed 2nd out of 25 teams** in the Youth AI Pitch Competition. *(React Native, Expo, OpenAI API, Twilio)*
+* **[IWKids](https://github.com/soodaayush/IWKids)** - An AI-powered full-stack mobile app built to optimize the ER experience for children and families. **Placed 2nd out of 24 teams** in the Youth AI Pitch Competition. *(React Native, Expo, OpenAI API, Twilio)*
 * **[BVHS Mobile App](https://github.com/soodaayush/BVHApp)** - Designed and deployed a custom mobile application for my high school to streamline student information distribution. Built as my final project for **Harvard University's CS50x**. *(React Native, Expo)*
 * **[6502 Computer Project](https://github.com/soodaayush/6502-project)** - A custom breadboard computer built around the classic MOS 6502 processor. Wrote custom assembly routines, wired address/data buses, and mapped RAM/ROM to explore low-level machine architecture. *(Python, Assembly)*
 * **[CoinDeno](https://github.com/soodaayush/coindeno)** - A full-stack web and mobile app using React Native, Expo, and Firebase to track crypto portfolios with real-time API charts and cost-basis management. *(React Native, Expo, Firebase, CoinGecko API)*
